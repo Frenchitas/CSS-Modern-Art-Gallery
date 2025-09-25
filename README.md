@@ -1,11 +1,11 @@
-# CSS-Spa-and-Beauty
+# CSS-Modern-Art-Gallery
 
 This is a frontend project built with HTML, CSS (using Sass), and Vite.  
-It features a **header** and **hero section** for a Spa & Beauty website.
+It features two pages **home** and **location** for an Art Gallery micro-website.
 
 ## 🖥 Preview
 
-![Image](src/images/Spa-and-beauty-preview.png)
+![Image](src/images/preview.png)
 
 ## 🚀 Technologies Used
 
@@ -19,11 +19,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Frenchitas/CSS-Spa-and-Beauty.git
+   git clone https://github.com/Frenchitas/CSS-Modern-Art-Gallery.git
 
 2. **Navigate into the project directory:**
    ```bash
-   cd CSS-Spa-and-Beauty
+   cd CSS-Modern-Art-Gallery
 
 3. **Install dependencies (make sure you have Node.js and npm installed):**
    ```bash
